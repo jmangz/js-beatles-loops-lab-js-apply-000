@@ -30,4 +30,6 @@ function iLoveTheBeatles(num) {
     result.push('I love the Beatles!');
     i++;
   } while (i < 15);
+
+  return result;
 }
